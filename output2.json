@@ -9,9 +9,9 @@
     {
         "trade_type": "SELL",
         "filter_text": "20k",
-        "price": 737.28,
-        "min_amount": 18000.0,
-        "max_amount": 147456.0
+        "price": 737.19,
+        "min_amount": 15000.0,
+        "max_amount": 2205871.52
     },
     {
         "trade_type": "SELL",
