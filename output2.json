@@ -39,7 +39,7 @@
         "filter_text": "10k",
         "price": 742.97,
         "min_amount": 2000.0,
-        "max_amount": 166032.41
+        "max_amount": 162038.43
     },
     {
         "trade_type": "BUY",
