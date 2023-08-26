@@ -51,22 +51,22 @@
     {
         "trade_type": "BUY",
         "filter_text": "40k",
-        "price": 742.44,
-        "min_amount": 30000.0,
-        "max_amount": 222553.95
+        "price": 742.4,
+        "min_amount": 20000.0,
+        "max_amount": 250367.13
     },
     {
         "trade_type": "BUY",
         "filter_text": "90k",
         "price": 742.4,
-        "min_amount": 20000.0,
-        "max_amount": 250367.13
+        "min_amount": 80000.0,
+        "max_amount": 2706607.32
     },
     {
         "trade_type": "BUY",
         "filter_text": "100k",
         "price": 742.4,
-        "min_amount": 20000.0,
-        "max_amount": 250367.13
+        "min_amount": 80000.0,
+        "max_amount": 2706607.32
     }
 ]
