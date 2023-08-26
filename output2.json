@@ -65,8 +65,8 @@
     {
         "trade_type": "BUY",
         "filter_text": "100k",
-        "price": 742.95,
-        "min_amount": 1500.0,
-        "max_amount": 1896274.46
+        "price": 742.97,
+        "min_amount": 2000.0,
+        "max_amount": 372598.56
     }
 ]
