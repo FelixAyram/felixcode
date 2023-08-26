@@ -53,14 +53,14 @@
         "filter_text": "40k",
         "price": 742.8,
         "min_amount": 40000.0,
-        "max_amount": 494034.73
+        "max_amount": 444039.72
     },
     {
         "trade_type": "BUY",
         "filter_text": "90k",
         "price": 742.8,
         "min_amount": 40000.0,
-        "max_amount": 494034.73
+        "max_amount": 444039.72
     },
     {
         "trade_type": "BUY",
