@@ -2,14 +2,14 @@
     {
         "trade_type": "SELL",
         "filter_text": "10k",
-        "price": 738.08,
+        "price": 738.04,
         "min_amount": 10000.0,
         "max_amount": 100000.0
     },
     {
         "trade_type": "SELL",
         "filter_text": "20k",
-        "price": 738.08,
+        "price": 738.04,
         "min_amount": 10000.0,
         "max_amount": 100000.0
     },
@@ -23,16 +23,16 @@
     {
         "trade_type": "SELL",
         "filter_text": "90k",
-        "price": 740.7,
-        "min_amount": 80000.0,
-        "max_amount": 4568978.32
+        "price": 740.71,
+        "min_amount": 50000.0,
+        "max_amount": 541999.72
     },
     {
         "trade_type": "SELL",
         "filter_text": "100k",
-        "price": 740.7,
-        "min_amount": 80000.0,
-        "max_amount": 4568978.32
+        "price": 740.71,
+        "min_amount": 50000.0,
+        "max_amount": 541999.72
     },
     {
         "trade_type": "BUY",
