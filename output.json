@@ -72,8 +72,8 @@
     {
         "trade_type": "SELL",
         "filter_text": "prex",
-        "price": 739.5,
-        "min_amount": 15000.0,
-        "max_amount": 141155.76
+        "price": 738.0,
+        "min_amount": 20000.0,
+        "max_amount": 1595578.14
     }
 ]
